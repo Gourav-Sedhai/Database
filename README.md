@@ -1,5 +1,7 @@
 # Database
 Using database
+Example using database
+
 import mysql.connector
 
 con = mysql.connector.connect(
